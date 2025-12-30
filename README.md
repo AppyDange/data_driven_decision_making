@@ -1,6 +1,6 @@
 # Marvel Cinematic Universe: Data-Driven Performance Analysis
 
-**Course:** TEM 505 Data Driven Decision Making | **Arizona State University** **Semester:** Fall 2025  
+**Course:** TEM 505 Data Driven Decision Making | **Arizona State University** | **Semester:** Fall 2025  
 **Instructor:** Dr. Steve T Cho
 
 ## 👥 Authors
