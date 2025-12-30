@@ -64,5 +64,8 @@ The MCU has shifted from a low-risk, stable asset (2008–2019) to a high-volati
 ## 📜 Conclusion
 Our analysis suggests that for future success, studios must prioritize **script quality and audience satisfaction** over ballooning production budgets. Predictive modeling should be integrated into the script-approval and test-screening phases to mitigate the increased risk of volatility in the modern superhero market.
 
+## 📄 Full Project Report  
+👉 [**Download / Read the PDF**](https://github.com/AppyDange/data_driven_decision_making/blob/main/Project%205%20-%20Marvel%20Movie%20Dataset%20Predictive%20Analysis%20(1).pdf)
+
 ---
 *Submitted on December 8, 2025*
